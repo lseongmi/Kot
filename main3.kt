@@ -9,7 +9,7 @@ fun main() {
     }
 
     var two : Array<String> = arrayOf("하나", "둘", "셋")
-    for(i in 0..2 step 1) { //시작 ..곧 step 증가량
+    for(i in 0..2 step 1) { //시작 ..끝 step 증가량
         println(two[i])
     }
     var k : Int = 0
