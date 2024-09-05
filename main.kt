@@ -1,5 +1,5 @@
 fun main() {
-    var var1 : Int = 10
+    var var1 : Int = 10 //int
     var var2 : Float = 10.1f
     var var3 : Double = 10.2
     var var4 : Char = '안'
